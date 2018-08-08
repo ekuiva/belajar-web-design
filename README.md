@@ -1,4 +1,4 @@
-#Belajar Web Design Part 1 - Tutorial Web Design Indonesia
+# Belajar Web Design Part 1 - Tutorial Web Design Indonesia
 Divideo kali kita akan belajar mengenai belajar web design untuk pemula dengan konsep drag and drop tanpa harus coding HTML & CSS. Ditutorial belajar web design part satu ini dengan durasi 5 menit ini fokus kepada halaman home saja. 
 
 Video ini menampilkan cara membuat web desain dengan mudah hingga bisa diconvert ke HTML & CSS secara otomatis. Tanpa harus mengetahui cara membuat html. Dan fokus disini tidak hanya fokus untuk belajar coding. Melainkan mendesain website tersebut dengan tools yang sudah disediakan sebelumnya.

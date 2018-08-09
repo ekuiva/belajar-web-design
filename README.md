@@ -3,7 +3,7 @@ Divideo kali kita akan belajar mengenai belajar web design untuk pemula dengan k
 
 Video ini menampilkan cara membuat web desain dengan mudah hingga bisa diconvert ke HTML & CSS secara otomatis. Tanpa harus mengetahui cara membuat html. Dan fokus disini tidak hanya fokus untuk belajar coding. Melainkan mendesain website tersebut dengan tools yang sudah disediakan sebelumnya.
 
-<br>Video Part 1 : https://www.youtube.com/watch?v=boqdaVcNA0Q&t=135s
+<br>Video Part 1 : https://www.youtube.com/watch?v=boqdaVcNA0Q
 <br>Video Part 2 : https://www.youtube.com/watch?v=XAdFmvqCQAI
 
 Dalam home ini dibuat dari mulai header, section konten, hingga footer dibawah. Model desain web ini fokus kepada konten yang akan ditampilkan dihalaman utama.
